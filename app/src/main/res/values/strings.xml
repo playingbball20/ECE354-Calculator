@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="operand1">Operand1</string>
+    <string name="operand2">Operand2</string>
+    <string name="clickAdd">+</string>
+    <string name="clickSub">-</string>
+    <string name="clickMult">*</string>
+    <string name="clickDiv">/</string>
+    <string name="clickSqrt">Sqrt</string>
+    <string name="clickPow">POW(A,B)</string>
+    <string name="result">Result</string>
+    <string name="clickClear">Clear</string>
+    <string name="exit">Exit</string>
+</resources>
